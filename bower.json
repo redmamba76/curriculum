@@ -1,0 +1,25 @@
+{
+  "name": "curriculum_online",
+  "description": "This is an application all made by Bruno de Moraes",
+  "main": "index.js",
+  "authors": [
+    "Bruno de Moraes"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "curriculum",
+    "web",
+    "developer"
+  ],
+  "homepage": "https://github.com/redmamba76/curriculum",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-input-masks": "^2.6.0"
+  }
+}
